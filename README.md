@@ -14,8 +14,6 @@ Most of the projects are extremely simple, or written in a poor manner, but they
 
 The projects cover very different areas, and this served me as a playground to test my skills and find what I liked the most. 
 
-Some of the projects are related to networking such as the `TCP` and `server-client chats`, the `port scanner` or the `dos attack`, but I also developed the famous pong `game`, some `data visualization` and 3D graphs. I also created some bots, or tools to `automate` repetitive processes, 
-
 
 ## 🌐 Networking
 
